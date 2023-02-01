@@ -63,10 +63,13 @@ body {
 
 
 .owl{
-background-color: rgb(31, 117, 117);
+background-color: rgb(44, 167, 167);
 
 }
-
+#tundra{
+    width: 200x;
+    height: 300px; ;
+}
 
 
 
