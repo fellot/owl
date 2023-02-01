@@ -67,9 +67,13 @@ background-color: rgb(44, 167, 167);
 
 }
 #tundra{
-    width: 200x;
+    width: 200px;
     height: 300px; ;
 }
 
-
-
+.the{
+    background-color: rgb(203, 132, 144);
+}
+#are{
+   position:center ;
+}
