@@ -79,7 +79,6 @@ background-color: rgb(44, 167, 167);
     background-color: darkolivegreen;
 padding: 100px;
 }
-#red{
-    width: 80px;
-    height: 160px; 
+p {
+    font-size: 19px;
 }
