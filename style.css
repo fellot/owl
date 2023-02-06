@@ -85,3 +85,7 @@ p {
 .Hello{
     background-color: rgb(107, 166, 48);
 }
+.contents{
+    background-color: burlywood;
+    color: rgb(204, 58, 58);
+}
