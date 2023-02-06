@@ -76,9 +76,12 @@ background-color: rgb(44, 167, 167);
     background-color: rgb(203, 132, 144);
 }
 #good{
-    background-color: darkolivegreen;
+    background-color: rgb(155, 181, 109);
 padding: 100px;
 }
 p {
-    font-size: 19px;
+    font-size: 20px;
+}
+.Hello{
+    background-color: rgb(107, 166, 48);
 }
