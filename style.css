@@ -1,3 +1,4 @@
+
 /* CSS = Cascade Style Sheet */
 /* This website was built on January 27, 2023 by Nicholas Deda s2*/
 * {
@@ -37,9 +38,7 @@ body {
 }
 
 .go {
-    background-color: rgba(238, 152, 14, 0.899);
     padding: 60px;
-    color: rgba(242, 255, 0, 0.897);
 }
 
 .owl-generic {
@@ -88,4 +87,11 @@ p {
 .contents{
     background-color: burlywood;
     color: rgb(204, 58, 58);
+    padding: 125px;
+}
+.little{
+    background-color: rgb(173, 165, 165);
+}
+#big{
+    font-size: 300px;
 }
