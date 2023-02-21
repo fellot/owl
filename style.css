@@ -1,6 +1,18 @@
 
 /* CSS = Cascade Style Sheet */
 /* This website was built on January 27, 2023 by Nicholas Deda s2*/
+
+@font-face {
+    font-family: 'boy';
+    src: url();
+}
+
+
+#p1{
+    font-family:cursive;
+    font:rgb(239, 238, 238);
+}
+
 * {
     box-sizing: border-box;
 }
