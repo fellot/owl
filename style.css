@@ -10,7 +10,6 @@
 
 #p1{
     font-family:cursive;
-    font:rgb(239, 238, 238);
 }
 
 * {
@@ -100,10 +99,18 @@ p {
     background-color: burlywood;
     color: rgb(204, 58, 58);
     padding: 125px;
+    font: bold;
 }
 .little{
     background-color: rgb(173, 165, 165);
 }
 #big{
     font-size: 300px;
+}
+.China { 
+    background: linear-gradient(to bottom, #9c9f1e, #6b4a16);
+}
+
+.fun{
+    background: linear-gradient(to top right, #467f32, #8c8c8b); 
 }
