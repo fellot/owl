@@ -27,7 +27,7 @@ body {
     padding: 60px;
     font-size: 1.5em;
     font-weight: 200;
-    /* text-shadow: lightgray 0 -2px; */
+    /* text-shadow: lightgray 0 -200px;*/ 
 }
 
 .row:after {
@@ -112,5 +112,9 @@ p {
 }
 
 .fun{
-    background: linear-gradient(to top right, #467f32, #8c8c8b); 
+    background: linear-gradient(to top right, #4ba729, #b7b7b5f5); 
+}
+
+.help{
+    background: linear-gradient(to right, #6e510e, #fffffff5);
 }
