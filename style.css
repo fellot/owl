@@ -96,10 +96,11 @@ p {
     background-color: rgb(107, 166, 48);
 }
 .contents{
-    background-color: burlywood;
-    color: rgb(204, 58, 58);
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     padding: 125px;
     font: bold;
+    font-size: 20px;
 }
 .little{
     background-color: rgb(173, 165, 165);
@@ -117,4 +118,7 @@ p {
 
 .help{
     background: linear-gradient(to right, #6e510e, #fffffff5);
+}
+.-green{
+    background: linear-gradient(to right, #509807, #dadd3cf5); 
 }
