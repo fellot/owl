@@ -122,3 +122,7 @@ p {
 .-green{
     background: linear-gradient(to right, #509807, #dadd3cf5); 
 }
+
+.ACKNOWLEDGEMENTS{
+    padding: 180px;
+}
