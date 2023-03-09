@@ -131,3 +131,8 @@ p {
 .purple{
     Background: linear-gradient(to right, rgba(13, 175, 84, 0.68) , rgb(134, 253, 69) )
 }
+
+
+.queen{
+    Background: linear-gradient(to right, rgba(245, 208, 23, 0.68) , rgb(228, 202, 72) )
+}
