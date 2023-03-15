@@ -136,3 +136,5 @@ p {
 .queen{
     Background: linear-gradient(to right, rgba(245, 208, 23, 0.68) , rgb(228, 202, 72) )
 }
+
+.super{Background: linear-gradient(to right, rgba(0, 64, 255, 0.68) , rgb(0, 255, 255), rgba(0, 64, 255, 0.68), rgb(0, 255, 255) )}
