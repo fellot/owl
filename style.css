@@ -9,7 +9,7 @@
 
 
 #p1{
-    font-family:cursive;
+    font-family:serif;
 }
 
 * {
@@ -142,4 +142,8 @@ p {
 }
 .emergency{
     font: black;
+}
+
+ol {
+   font-size: 1.3em;
 }
