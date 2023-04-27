@@ -147,3 +147,17 @@ p {
 ol {
    font-size: 1.3em;
 }
+
+.fight{
+    Background: linear-gradient(to right, rgba(30, 255, 0, 0.68) , rgb(0, 255, 255)) 
+}
+
+#nick{
+    width: 500px;
+    height: 500px; 
+}
+
+#nicky{
+    width: 625px;
+    height: 500px; 
+}
