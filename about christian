@@ -1,0 +1,20 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>owls-of-the-world.com</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+    </header>
+    <section>
+        <h1 style="font-size: 75px; text-align:center;"><u>My Friend Christian</h1></u></h1>
+    </section>
+  <div id="Chris">
+    <p style="font-size: 3.2em;padding: 60px;">Hi, as you know my name is Nicholas and I am going to talk about my friend Christian. Where do I start? Oh, I know one thing I love about him is that he is very understanding. For example, when someone is having a hard time he stops having fun just to go help the person in need. During recess we would only play soccer and we were good. We would spend recess after recess playing soccer.
+    </p>
+    </div>
+</body>
+</html>

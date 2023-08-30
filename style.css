@@ -117,7 +117,7 @@ p {
 .green{
     background: linear-gradient(to right, #509807, #dadd3cf5); 
 }
-
+life
 .ACKNOWLEDGEMENTS{
     padding: 180px;
     Background: linear-gradient(to right, rgb(18 150 75 / 68%) , rgba(255, 138, 13, 0.567) )
@@ -130,6 +130,10 @@ p {
 
 .queen{
     Background: linear-gradient(to right, rgba(245, 208, 23, 0.68) , rgb(228, 202, 72) )
+}
+
+#chris{
+    Background: linear-gradient(to right, rgb(35, 97, 8) , rgb(110, 157, 17) )
 }
 
 .super{
@@ -157,7 +161,7 @@ ol {
 }
 
 #nicky{
-    width: 326px;
+    width: 250px;
     height: 355px; 
 }
 
@@ -174,4 +178,8 @@ ol {
 
 .fight7{
     Background: linear-gradient(to right, rgba(3, 29, 161, 0.68) , rgb(255, 0, 255) , rgb(0, 255, 255)) 
+}
+
+.fight78{
+    Background: linear-gradient(to top right, rgba(16, 25, 72, 0.68) , rgb(87, 35, 87) , rgb(25, 82, 34)) 
 }
